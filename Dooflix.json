@@ -1,0 +1,10 @@
+{
+
+"name": "Cnc Mradul",
+    "iconUrl": "https://raw.githubusercontent.com/mradulpratapsolanki-collab/CNCMradul-Cloud-Stream-Extension/refs/heads/builds/plugins.png",
+    "description": "Mradul Repository",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/mradulpratapsolanki-collab/CNCMradul-Cloud-Stream-Extension/refs/heads/builds/plugins.json",
+    ]
+}
