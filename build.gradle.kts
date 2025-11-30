@@ -27,5 +27,5 @@ cloudstream {
         "TvSeries"
     )
 
-    iconUrl = "https://github.com/mradulpratapsolanki-collab/CNCMradul-Cloud-Stream-Extension/raw/refs/heads/master/CNC%20Mradul/icon.png"
+    iconUrl = "https://raw.githubusercontent.com/mradulpratapsolanki-collab/CNCMradul-Cloud-Stream-Extension/builds/plugins.json"
 }
