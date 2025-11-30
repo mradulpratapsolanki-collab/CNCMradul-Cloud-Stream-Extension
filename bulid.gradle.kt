@@ -8,7 +8,7 @@ android {
 
 
 cloudstream {
-    language = "ta"
+    language = "en"
     // All of these properties are optional, you can safely remove them
 
     description = "DoFlix Provider for Movies and TV Series"
@@ -27,5 +27,6 @@ cloudstream {
         "Movie",
     )
 
-    iconUrl = "https://github.com/mradulpratapsolanki-collab/CNCMradul-Cloud-Stream-Extension/raw/refs/heads/master/DoFlixProvider/icon.png"
+    iconUrl = "https://raw.githubusercontent.com/mradulpratapsolanki-collab/CNCMradul-Cloud-Stream-Extension/builds/plugins.json"
 }
+
